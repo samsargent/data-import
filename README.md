@@ -711,7 +711,7 @@ This is exactly what the ValidatorFilter does. To use it, include Symfony’s
 Validator component in your project:
 
 ```bash
-$ compose require symfony/validator
+$ composer require symfony/validator
 ```
 
 The ValidatorFilter works as follows:
